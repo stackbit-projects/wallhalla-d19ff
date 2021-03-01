@@ -72,7 +72,7 @@ seo:
       value: Wallcopy
       keyName: property
     - name: 'og:description'
-      value: 
+      value: Wallcopy
       keyName: property
     - name: 'og:image'
       value: images/header.jpg
