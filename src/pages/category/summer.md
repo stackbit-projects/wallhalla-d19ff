@@ -2,7 +2,7 @@
 title: specials
 order: 4
 seo:
-  title: Summer plants
+  title: n wO
   extra:
     - name: 'og:type'
       value: website
