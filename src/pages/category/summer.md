@@ -1,5 +1,5 @@
 ---
-title: specials
+title: Own copy
 order: 4
 seo:
   title: Own copy
