@@ -47,6 +47,7 @@ sections:
       url: /store
       style: primary
       arrow: true
+      title: Get in contact
 seo:
   title: About
   description: This is the about page
