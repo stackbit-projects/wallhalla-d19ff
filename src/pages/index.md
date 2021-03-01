@@ -69,10 +69,10 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Planty Theme
+      value: Wallcopy
       keyName: property
     - name: 'og:description'
-      value: The preview of the Planty theme
+      value: 
       keyName: property
     - name: 'og:image'
       value: images/header.jpg
