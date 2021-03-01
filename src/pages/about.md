@@ -19,8 +19,9 @@ sections:
     section_id: bulletpoints_section
     bulletpoints:
       - title: We love copy
-        description: |
-          test
+        description: >
+          In 2011 we started printing citymaps to wallpaper. People loved the
+          level of detail. Ten years later we founded Wallcopy.
         image: images/books.png
       - title: We think plants are the future
         description: >-
