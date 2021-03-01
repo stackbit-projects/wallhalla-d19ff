@@ -44,7 +44,6 @@ sections:
     image: images/letters.png
     background_image: /images/leaf.svg
     cta:
-      title: Discover
       url: /store
       style: primary
       arrow: true
