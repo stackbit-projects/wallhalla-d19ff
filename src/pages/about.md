@@ -21,7 +21,9 @@ sections:
       - title: We love copy
         description: >
           In 2011 we started printing citymaps to wallpaper. People loved the
-          level of detail. Ten years later we founded Wallcopy.
+          level of detail. Ten years later we founded Wallcopy. Wallcopy brings
+          you text to wallpaper. Recipes, dictionaries, poems, quotes, lyrics or
+          your own copy......you name it. 
         image: images/books.png
       - title: We think plants are the future
         description: >-
