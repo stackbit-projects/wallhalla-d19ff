@@ -25,7 +25,7 @@ sections:
           you text to wallpaper. Recipes, dictionaries, poems, quotes, lyrics or
           your own copy......you name it. 
         image: images/books.png
-      - title: We think plants are the future
+      - title: But keep it quiet
         description: >-
           Word. But good **code** _can_ solve a lots of problems, too. New _and_
           old. That’s why we help beginners get started with web development
