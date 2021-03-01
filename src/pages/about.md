@@ -18,7 +18,7 @@ sections:
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
-      - title: We love copy
+      - title: We love detail
         description: >
           In 2011 we started printing citymaps to wallpaper. People loved the
           level of detail. Ten years later we founded Wallcopy. Wallcopy brings
