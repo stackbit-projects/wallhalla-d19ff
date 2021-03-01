@@ -83,7 +83,7 @@ seo:
     - name: 'twitter:title'
       value: Wallcopy
     - name: 'twitter:description'
-      value: The preview of the Planty theme
+      value: Wallcopy
     - name: 'twitter:image'
       value: images/header.jpg
       relativeUrl: true
