@@ -63,7 +63,7 @@ sections:
       arrow: true
 seo:
   title: Wallcopy
-  description: The preview of the Planty theme
+  description: Wallcopy
   extra:
     - name: 'og:type'
       value: website
