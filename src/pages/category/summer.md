@@ -2,7 +2,7 @@
 title: specials
 order: 4
 seo:
-  title: n wO
+  title: Own copy
   extra:
     - name: 'og:type'
       value: website
