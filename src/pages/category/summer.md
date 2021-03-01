@@ -3,7 +3,6 @@ title: specials
 order: 4
 seo:
   title: Summer plants
-  description: epS
   extra:
     - name: 'og:type'
       value: website
