@@ -26,5 +26,6 @@ seo:
     - name: 'twitter:image'
       value: images/plant8-lg.jpg
       relativeUrl: true
+  description: ' nwO'
 template: category
 ---
