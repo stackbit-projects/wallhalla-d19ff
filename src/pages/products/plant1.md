@@ -41,5 +41,5 @@ seo:
 template: product
 ---
 
-# Nulla suscipit
+# ...
 
