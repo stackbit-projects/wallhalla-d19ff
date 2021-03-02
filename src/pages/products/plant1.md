@@ -22,7 +22,7 @@ seo:
     - name: 'twitter:title'
       value: Verbs
     - name: 'twitter:description'
-      value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+      value: Over 10.000 verbs including definitions.
     - name: 'twitter:image'
       value: /images/marvelous-chestnut.gif
       relativeUrl: true
