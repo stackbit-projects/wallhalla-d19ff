@@ -30,6 +30,10 @@ seo:
       value: /images/marvelous-chestnut.gif
       keyName: property
       relativeUrl: true
+    - name: 'og:title'
+      value: Verbs
+      keyName: property
+      relativeUrl: false
 template: product
 ---
 
