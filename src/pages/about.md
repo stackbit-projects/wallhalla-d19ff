@@ -35,7 +35,7 @@ sections:
         image: images/graffiti.png
   - type: promotion_section
     section_id: promotion_section
-    title: Got your own copy?
+    title: Wall your own copy?
     subtitle: from $149.99
     image: images/letters.png
     background_image: /images/leaf.svg
