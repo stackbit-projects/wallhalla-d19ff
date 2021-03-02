@@ -26,6 +26,10 @@ seo:
     - name: 'twitter:image'
       value: images/plant1-lg.jpg
       relativeUrl: true
+    - name: 'og:image'
+      value: /images/marvelous-chestnut.gif
+      keyName: property
+      relativeUrl: true
 template: product
 ---
 
