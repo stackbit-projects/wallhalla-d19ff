@@ -34,6 +34,10 @@ seo:
       value: Verbs
       keyName: property
       relativeUrl: false
+    - name: 'og:description'
+      value: Over 10.000 verbs including definitions.
+      keyName: property
+      relativeUrl: false
 template: product
 ---
 
