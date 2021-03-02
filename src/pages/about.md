@@ -36,7 +36,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Wall your own copy?
-    subtitle: from $149.99
+    subtitle: "from\_ $ 39.99"
     image: images/letters.png
     background_image: /images/leaf.svg
     cta:
