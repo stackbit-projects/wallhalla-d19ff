@@ -12,7 +12,7 @@ order: 1
 category: src/pages/category/bigplants.md
 seo:
   title: Verbs
-  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
+  description: Over 10.000 verbs including definitions.
   extra:
     - name: 'og:type'
       value: website
