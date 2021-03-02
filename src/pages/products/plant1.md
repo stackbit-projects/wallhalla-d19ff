@@ -2,10 +2,7 @@
 id: '1'
 price: '49.40'
 title: All verbs
-description: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
-  lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
-  tincidunt.
+description: Don't know what to do?
 default_thumbnail_image: images/marvelous-chestnut.gif
 default_original_image: images/marvelous-chestnut.gif
 featured: true
