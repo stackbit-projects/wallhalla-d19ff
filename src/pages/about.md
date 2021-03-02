@@ -43,7 +43,7 @@ sections:
       url: /store
       style: primary
       arrow: true
-      title: Get in contact
+      title: Contact us
 seo:
   title: About
   description: This is the about page
