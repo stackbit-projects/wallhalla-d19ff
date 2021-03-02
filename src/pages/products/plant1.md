@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:description'
       value: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
     - name: 'twitter:image'
-      value: images/plant1-lg.jpg
+      value: /images/marvelous-chestnut.gif
       relativeUrl: true
     - name: 'og:image'
       value: /images/marvelous-chestnut.gif
