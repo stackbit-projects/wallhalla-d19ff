@@ -19,7 +19,7 @@
             flex-direction: column;
         }
     }
-    
+
         &__background-left-img {
         background-size: cover;
         background-repeat: no-repeat;
@@ -39,6 +39,7 @@
         background-position-y: -650px;
         @include smaller-than-tablet { display: none; }
     }
+    
     &__head {
         margin-top: $spacing--unit*8;
         margin-bottom: $spacing--unit*10;
