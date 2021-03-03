@@ -19,7 +19,25 @@
             flex-direction: column;
         }
     }
-    
+        &__background-left-img {
+        background-size: cover;
+        background-repeat: no-repeat;
+        bottom: 0;
+        left: 0;
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+
+    &__background-right { 
+        grid-column: 3 / 8; 
+        grid-row: 1 / 4;
+        background-color: $color_default;
+        background-size: auto 250%;
+        background-position: calc(50% + 200px) 50%;
+        background-position-y: -650px;
+        @include smaller-than-tablet { display: none; }
+    }
     &__head {
         margin-top: $spacing--unit*8;
         margin-bottom: $spacing--unit*10;
