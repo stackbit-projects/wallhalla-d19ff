@@ -19,7 +19,7 @@ export default class Store extends React.Component {
         return (
             <Layout {...this.props}>
             <main className={'content' + (_.get(this.props, 'pageContext.frontmatter.page_css_class', null) ? (' ' + _.get(this.props, 'pageContext.frontmatter.page_css_class', null)) : '')}>
-                    <div className="product__background-left">
+                        <div className="product__background-left">
                             {_.get(this.props, 'pageContext.site.siteMetadata.bg_image_primary', null) && (
                             <div className="product__background-left-img" style={toStyleObj('background-image: url(\'' + withPrefix(_.get(this.props, 'pageContext.site.siteMetadata.bg_image_primary', null)) + '\'); opacity: ' + primary_bg_img_opacity + ';')}/>
                             )}
