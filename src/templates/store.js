@@ -20,14 +20,6 @@ export default class Store extends React.Component {
             <Layout {...this.props}>
             <main className={'content' + (_.get(this.props, 'pageContext.frontmatter.page_css_class', null) ? (' ' + _.get(this.props, 'pageContext.frontmatter.page_css_class', null)) : '')}>
 
-                <div className="product__background-left">
-                            {_.get(this.props, 'pageContext.site.siteMetadata.bg_image_primary', null) && (
-                            <div className="product__background-left-img" style={toStyleObj('background-image: url(\'' + withPrefix(_.get(this.props, 'pageContext.site.siteMetadata.bg_image_primary', null)) + '\'); opacity: ' + primary_bg_img_opacity + ';')}/>
-                            )}
-                        </div>
-                        {_.get(this.props, 'pageContext.site.siteMetadata.bg_image_secondary', null) && (
-                        <div className="product__background-right" style={toStyleObj('background-image: url(\'' + withPrefix(_.get(this.props, 'pageContext.site.siteMetadata.bg_image_secondary', null)) + '\')')}/>
-                        )}
                 {_.map(_.get(this.props, 'pageContext.frontmatter.sections', null), (section, section_idx) => {
                     let component = _.upperFirst(_.camelCase(_.get(section, 'type', null)));
                     let Component = components[component];
