@@ -2,7 +2,7 @@
     "favicon": "images/favicon.ico",
     "logo_dark": "images/logodark1703.svg",
     "logo_light": "images/logodark1703.svg",
-    "bg_image_primary_opacity": 20,
+    "bg_image_primary_opacity": 60,
     "bg_image_secondary": "images/backgroundwhiteheader.svg",
     "bg_image_product": "images/backgroundwhiteheader.svg",
     "snipcart_api_key": "",
