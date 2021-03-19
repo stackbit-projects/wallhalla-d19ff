@@ -10,11 +10,11 @@ sections:
       # Something to read...
 
 
-      We offer small font text on wallpaper or murals. 
+      We offer small font text on wallpaper or murals.
 
 
-      To express yourself, to educate, to remember, to relax, to engage vistors
-      or just as a funny gimmick. 
+      To express yourself, to educate, to remember, to relax, to engage visitors
+      or just as a funny gimmick.
 
 
       Select one off the shelf or have it fit your wall the way you like it.
