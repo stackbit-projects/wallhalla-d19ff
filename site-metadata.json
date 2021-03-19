@@ -24,7 +24,8 @@
         {
             "title": "FAQ",
             "url": "/faq",
-            "style": "link"
+            "style": "link",
+            "arrow": true
         }
     ],
     "title": "wallcopy",
