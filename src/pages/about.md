@@ -10,7 +10,7 @@ sections:
       We offer small font text on wallpaper or murals.
 
 
-      To express yourself, to educate, to remember, to relax, to engage vistors
+      To express yourself, to educate, to remember, to relax, to engage visitors
       or just as a funny gimmick.
 
 
