@@ -39,7 +39,7 @@ sections:
     title: Wall your own copy?
     subtitle: "from\_ $ 39.99"
     image: images/letters.png
-    background_image: /images/leaf.svg
+    background_image: images/mighty-goose.svg
     cta:
       url: /store
       style: primary
