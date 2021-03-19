@@ -4,7 +4,7 @@ page_css_class: white-background
 sections:
   - type: header_section
     section_id: header_section
-    background_image: images/mighty-goose.svg
+    background_image: images/backgroundwhiteheader.svg
     headline: Wallcopy
     subtitle: >
       We offer small font text on wallpaper or murals.
