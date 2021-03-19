@@ -54,7 +54,7 @@ sections:
     address: 'Chestnut Hill, MA'
     phone: '+1 '
     email: info@wallcopy.com
-    mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
+    mapUrl: 'https://goo.gl/maps/icUYuT1rFbsN15A36'
 seo:
   title: FAQ
   description: This is the faq page
