@@ -52,7 +52,7 @@ sections:
     image: images/greekchars.png
     section_id: contact_section
     address: 'Chestnut Hill, MA'
-    phone: +1-202-555-0112
+    phone: '+1 '
     email: geeks@snipcart.com
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
 seo:
