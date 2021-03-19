@@ -5,7 +5,7 @@ title: All verbs
 description: >-
   Don't know what to do? We got you covered. Over 10.000 verbs waiting for you
   for inspiration and enrich you vocabulary. Definitions included.
-default_thumbnail_image: images/marvelous-chestnut.gif
+default_thumbnail_image: images/verbspinkdoors.gif
 default_original_image: images/marvelous-chestnut.gif
 featured: true
 order: 1
