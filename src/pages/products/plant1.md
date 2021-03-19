@@ -6,7 +6,7 @@ description: >-
   Don't know what to do? We got you covered. Over 10.000 verbs waiting for you
   for inspiration and enrich you vocabulary. Definitions included.
 default_thumbnail_image: images/verbspinkdoors.gif
-default_original_image: images/marvelous-chestnut.gif
+default_original_image: images/verbspinkdoors.gif
 featured: true
 order: 1
 category: src/pages/category/bigplants.md
