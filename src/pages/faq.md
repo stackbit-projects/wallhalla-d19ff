@@ -53,7 +53,7 @@ sections:
     section_id: contact_section
     address: 'Chestnut Hill, MA'
     phone: '+1 '
-    email: geeks@snipcart.com
+    email: info@wallcopy.com
     mapUrl: 'https://goo.gl/maps/g6za62bN9BHrNTVt5'
 seo:
   title: FAQ
