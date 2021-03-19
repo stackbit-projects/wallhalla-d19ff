@@ -1,7 +1,7 @@
 {
     "favicon": "images/favicon.ico",
     "logo_dark": "images/logodarkc.svg",
-    "logo_light": "images/logolightc.svg",
+    "logo_light": "images/logodarkc.svg",
     "hamburger_background_image": "/images/leaf-light-grey.svg",
     "bg_image_primary_opacity": 60,
     "bg_image_secondary": "images/mighty-sycamore.svg",
