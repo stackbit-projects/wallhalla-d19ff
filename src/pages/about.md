@@ -26,12 +26,13 @@ sections:
           your own copy......you name it. 
         image: images/books.png
       - title: But keep it quiet
-        description: >-
-          Word. But good **code** _can_ solve a lots of problems, too. New _and_
-          old. That’s why we help beginners get started with web development
-          through free content and tools, like this theme. We also believe [the
-          JAMstack](https://jamstack.org/) might be one solid pillar on which we
-          build that future.
+        description: >
+          Full blown photowallpaper can be a little overwhelming and over time
+          you may get tired with the image chosen to light up a room. Wallpaper
+          from Wallcopy is essentially just one plain colour of your choice like
+          latex paint. The wall blends in with your interior better, while
+          thanks to the wide print technology of today's wallpaper, you have so
+          much detail when you look a little closer. 
         image: images/graffiti.png
   - type: promotion_section
     section_id: promotion_section
