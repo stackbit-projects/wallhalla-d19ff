@@ -9,7 +9,7 @@ order: 2
 category: src/pages/category/home.md
 seo:
   title: Shakespeare
-  description: The Constitution holds the basic principles that sets the Nation.
+  description: All sonnets on one wallpaper.
   extra:
     - name: 'og:type'
       value: website
@@ -18,7 +18,7 @@ seo:
       value: We the people
       keyName: property
     - name: 'og:description'
-      value: The Constitution holds the basic principles that sets the Nation.
+      value: All sonnets on one wallpaper.
       keyName: property
     - name: 'og:image'
       value: images/capitol.png
@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:title'
       value: We the people
     - name: 'twitter:description'
-      value: The Constitution holds the basic principles that sets the Nation.
+      value: All sonnets on one wallpaper.
     - name: 'twitter:image'
       value: images/capitol.png
       relativeUrl: true
