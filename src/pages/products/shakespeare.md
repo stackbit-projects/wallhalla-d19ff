@@ -2,7 +2,7 @@
 id: '2'
 price: 3 / SQ FT
 title: Shakespeare
-description: The Constitution holds the basic principles that sets the Nation.
+description: .
 default_thumbnail_image: images/capitol.png
 default_original_image: images/Religious.png
 order: 2
