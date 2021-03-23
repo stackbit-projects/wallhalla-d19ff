@@ -18,7 +18,7 @@ seo:
       value: Religious
       keyName: property
     - name: 'og:description'
-      value: Suspendisse efficitur eget erat sit amet efficitur
+      value: Religious book of your choice on your wall
       keyName: property
     - name: 'og:image'
       value: images/religious.jpg
