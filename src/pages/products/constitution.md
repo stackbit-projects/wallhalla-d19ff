@@ -15,7 +15,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Religious
+      value: We the people
       keyName: property
     - name: 'og:description'
       value: The Constitution holds the basic principles that sets the Nation.
