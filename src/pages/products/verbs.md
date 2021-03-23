@@ -9,7 +9,7 @@ default_thumbnail_image: images/verbspinkdoors.gif
 default_original_image: images/verbspinkdoors.gif
 featured: true
 order: 1
-category: src/pages/category/bigplants.md
+category: src/pages/category/home.md
 seo:
   title: Verbs
   description: Over 10.000 verbs including definitions.
