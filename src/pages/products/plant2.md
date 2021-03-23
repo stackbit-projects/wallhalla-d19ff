@@ -2,7 +2,7 @@
 id: '2'
 price: '99.00'
 title: Religious
-description: Select the book .
+description: Select the book you like to have printed on your wall.
 default_thumbnail_image: images/plant2.jpg
 default_original_image: images/plant2-lg.jpg
 order: 2
