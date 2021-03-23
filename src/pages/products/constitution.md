@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Religious wallapper
+      value: We the people
     - name: 'twitter:description'
       value: The Constitution holds the basic principles that sets the Nation.
     - name: 'twitter:image'
