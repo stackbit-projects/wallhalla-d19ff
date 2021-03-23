@@ -15,7 +15,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: We the people
+      value: Shakespeare
       keyName: property
     - name: 'og:description'
       value: All sonnets on one wallpaper.
@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: We the people
+      value: Shakespeare
     - name: 'twitter:description'
       value: All sonnets on one wallpaper.
     - name: 'twitter:image'
