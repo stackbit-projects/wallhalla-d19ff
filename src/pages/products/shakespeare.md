@@ -2,7 +2,7 @@
 id: '2'
 price: 3 / SQ FT
 title: Shakespeare
-description: .
+description: All sonnets on one wallpaper.
 default_thumbnail_image: images/capitol.png
 default_original_image: images/Religious.png
 order: 2
