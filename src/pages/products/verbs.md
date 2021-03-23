@@ -1,6 +1,6 @@
 ---
 id: '1'
-price: '49.40'
+price: ''
 title: All verbs
 description: >-
   Don't know what to do? We got you covered. Over 10.000 verbs waiting for you
