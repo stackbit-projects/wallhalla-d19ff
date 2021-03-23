@@ -48,7 +48,7 @@ export default class Product extends React.Component {
                         <figure className="product__figure">
                             <Picture {...this.props} image={_.get(this.props, 'pageContext.frontmatter.default_original_image', null)} alt={_.get(this.props, 'pageContext.frontmatter.title', null)} cssClass={'product__image'} />
                         </figure>
-                                                <figure className="product__figure">
+                        <figure className="product__figure">
                             <Picture {...this.props} image={_.get(this.props, 'pageContext.frontmatter.default_original_image', null)} alt={_.get(this.props, 'pageContext.frontmatter.title', null)} cssClass={'product__image'} />
                         </figure>
                         <div className="product__details">
