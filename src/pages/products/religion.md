@@ -31,7 +31,7 @@ seo:
     - name: 'twitter:description'
       value: Religious book of your choice on your wall
     - name: 'twitter:image'
-      value: images/plant2-lg.jpg
+      value: images/religious.png
       relativeUrl: true
 template: product
 ---
