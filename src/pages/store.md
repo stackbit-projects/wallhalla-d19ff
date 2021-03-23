@@ -14,7 +14,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
-    subtitle: from $149.99
+    subtitle: from $149.99 for 
     image: images/hieroglyfs.png
     background_image: images/backgroundwhiteheader.svg
     cta:
