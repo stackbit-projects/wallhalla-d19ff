@@ -2,7 +2,7 @@
 title: HOME
 order: 1
 seo:
-  title: Home, wallpaper
+  title: Home
   description: This is the store page
   extra:
     - name: 'og:type'
