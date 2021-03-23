@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:title'
       value: Religious wallapper
     - name: 'twitter:description'
-      value: Suspendisse efficitur eget erat sit amet efficitur
+      value: Religious book of your choice on your wall
     - name: 'twitter:image'
       value: images/plant2-lg.jpg
       relativeUrl: true
