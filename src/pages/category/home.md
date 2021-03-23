@@ -23,7 +23,7 @@ seo:
     - name: 'twitter:title'
       value: Big plants
     - name: 'twitter:description'
-      value: This is the store page
+      value: Home store page
     - name: 'twitter:image'
       value: images/plant1-lg.jpg
       relativeUrl: true
