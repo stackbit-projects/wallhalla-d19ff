@@ -1,7 +1,7 @@
 ---
 id: '2'
 price: '3 / SQ FT'
-title: Religious
+title: Religion
 description: Select the book you like to have printed on your wall.
 default_thumbnail_image: images/Religious.png
 default_original_image: images/Religious.png
