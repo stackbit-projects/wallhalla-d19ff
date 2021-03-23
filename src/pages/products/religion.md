@@ -21,7 +21,7 @@ seo:
       value: Religious book of your choice on your wall
       keyName: property
     - name: 'og:image'
-      value: images/religious.jpg
+      value: images/religious.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
