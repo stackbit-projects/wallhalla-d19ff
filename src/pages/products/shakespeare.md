@@ -21,7 +21,7 @@ seo:
       value: All sonnets on one wallpaper.
       keyName: property
     - name: 'og:image'
-      value: images/capitol.png
+      value: images/shakespeare.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -31,7 +31,7 @@ seo:
     - name: 'twitter:description'
       value: All sonnets on one wallpaper.
     - name: 'twitter:image'
-      value: images/capitol.png
+      value: images/shakespeare.png
       relativeUrl: true
 template: product
 ---
