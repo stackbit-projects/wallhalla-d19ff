@@ -31,7 +31,7 @@ seo:
     - name: 'twitter:description'
       value: The Constitution holds the basic principles that sets the Nation.
     - name: 'twitter:image'
-      value: images/religious.png
+      value: images/capitol.png
       relativeUrl: true
 template: product
 ---
