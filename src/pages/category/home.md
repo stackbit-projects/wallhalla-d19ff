@@ -12,7 +12,7 @@ seo:
       value: Big plants
       keyName: property
     - name: 'og:description'
-      value: This is the store page
+      value: Home store page
       keyName: property
     - name: 'og:image'
       value: images/verbs.jpg
