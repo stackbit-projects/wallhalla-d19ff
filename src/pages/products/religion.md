@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Integer porta
+      value: Religious
     - name: 'twitter:description'
       value: Suspendisse efficitur eget erat sit amet efficitur
     - name: 'twitter:image'
