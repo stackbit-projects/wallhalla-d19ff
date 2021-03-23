@@ -2,7 +2,7 @@
 id: '2'
 price: '3 / SQ FT'
 title: We the People
-description: The Constitution.
+description: The Constitution is a .
 default_thumbnail_image: images/Religious.png
 default_original_image: images/Religious.png
 order: 2
