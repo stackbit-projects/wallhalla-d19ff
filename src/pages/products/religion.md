@@ -21,7 +21,7 @@ seo:
       value: Suspendisse efficitur eget erat sit amet efficitur
       keyName: property
     - name: 'og:image'
-      value: images/plant2-lg.jpg
+      value: images/religious.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
