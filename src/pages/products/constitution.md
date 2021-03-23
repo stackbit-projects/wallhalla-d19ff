@@ -2,7 +2,7 @@
 id: '2'
 price: '3 / SQ FT'
 title: We the People
-description: The Constitution holds the basis.
+description: The Constitution holds the basic.
 default_thumbnail_image: images/Religious.png
 default_original_image: images/Religious.png
 order: 2
