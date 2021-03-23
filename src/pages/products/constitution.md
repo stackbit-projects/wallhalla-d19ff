@@ -9,7 +9,7 @@ order: 2
 category: src/pages/category/home.md
 seo:
   title: We the people
-  description: Religious book of your choice on your wall
+  description: The Constitution holds the basic principles that sets the Nation.
   extra:
     - name: 'og:type'
       value: website
