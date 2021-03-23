@@ -6,7 +6,7 @@ description: Select the book you like to have printed on your wall.
 default_thumbnail_image: images/Religious.png
 default_original_image: images/Religious.png
 order: 2
-category: src/pages/category/cactuses.md
+category: src/pages/category/home.md
 seo:
   title: Integer porta
   description: Suspendisse efficitur eget erat sit amet efficitur
