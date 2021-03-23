@@ -9,7 +9,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Big plants
+      value: Home
       keyName: property
     - name: 'og:description'
       value: Home store page
