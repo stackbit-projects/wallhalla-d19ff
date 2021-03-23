@@ -4,7 +4,7 @@ price: '99.00'
 title: Religious
 description: Select the book you like to have printed on your wall.
 default_thumbnail_image: images/Religious.png
-default_original_image: images/plant2-lg.jpg
+default_original_image: images/Religious.png
 order: 2
 category: src/pages/category/cactuses.md
 seo:
