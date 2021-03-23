@@ -18,7 +18,7 @@ seo:
       value: Religious
       keyName: property
     - name: 'og:description'
-      value: Religious book of your choice on your wall
+      value: The Constitution holds the basic principles that sets the Nation.
       keyName: property
     - name: 'og:image'
       value: images/religious.png
