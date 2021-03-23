@@ -8,7 +8,7 @@ default_original_image: images/Religious.png
 order: 2
 category: src/pages/category/home.md
 seo:
-  title: Religious wallpaper
+  title: We the people
   description: Religious book of your choice on your wall
   extra:
     - name: 'og:type'
