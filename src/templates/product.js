@@ -7,7 +7,7 @@ import {toStyleObj, withPrefix, Link, getPageByFilePath, getPages} from '../util
 import Picture from '../components/Picture';
 import BuyButton from '../components/BuyButton';
 import ProductGrid from '../components/ProductGrid';
-<script src="https://cdn.jsdelivr.net/npm/@jaames/iro@5"></script>
+
 
 
 // this minimal GraphQL query ensures that when 'gatsby develop' is running,
