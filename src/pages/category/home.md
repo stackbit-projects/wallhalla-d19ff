@@ -2,7 +2,7 @@
 title: HOME
 order: 1
 seo:
-  title: Big plants
+  title: Home, wallpaper
   description: This is the store page
   extra:
     - name: 'og:type'
