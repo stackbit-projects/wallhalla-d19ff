@@ -2,7 +2,7 @@ import React from 'react';
 import _ from 'lodash';
 import {graphql} from 'gatsby';
 //xtra
-import iro from '@jaames/iro'
+//import iro from '@jaames/iro'
 import {Layout} from '../components/index';
 import {toStyleObj, withPrefix, Link, getPageByFilePath, getPages} from '../utils';
 import Picture from '../components/Picture';
