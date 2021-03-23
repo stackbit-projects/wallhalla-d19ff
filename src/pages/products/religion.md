@@ -8,7 +8,7 @@ default_original_image: images/Religious.png
 order: 2
 category: src/pages/category/home.md
 seo:
-  title: Integer porta
+  title: Religious wallpaper
   description: Suspendisse efficitur eget erat sit amet efficitur
   extra:
     - name: 'og:type'
