@@ -15,7 +15,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Integer porta
+      value: Religious
       keyName: property
     - name: 'og:description'
       value: Suspendisse efficitur eget erat sit amet efficitur
