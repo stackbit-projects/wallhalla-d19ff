@@ -8,7 +8,7 @@ default_original_image: images/shakespeare.png
 order: 2
 category: src/pages/category/home.md
 seo:
-  title: We the people
+  title: Shakespeare
   description: The Constitution holds the basic principles that sets the Nation.
   extra:
     - name: 'og:type'
