@@ -3,7 +3,7 @@ title: HOME
 order: 1
 seo:
   title: Home
-  description: This is the store page
+  description: Home store page
   extra:
     - name: 'og:type'
       value: website
