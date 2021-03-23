@@ -1,7 +1,7 @@
 ---
 id: '1'
-price: '3 / SQ FT'
-title: All verbs
+price: 3 / SQ FT
+title: Verbs
 description: >-
   Don't know what to do? We got you covered. Over 10.000 verbs waiting for you
   for inspiration and to enrich you vocabulary. Definitions included.
