@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:description'
       value: Home store page
     - name: 'twitter:image'
-      value: images/plant1-lg.jpg
+      value: images/verbs.jpg
       relativeUrl: true
 template: category
 ---
