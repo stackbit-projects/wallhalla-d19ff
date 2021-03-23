@@ -9,7 +9,7 @@ order: 2
 category: src/pages/category/home.md
 seo:
   title: Religious wallpaper
-  description: Suspendisse efficitur eget erat sit amet efficitur
+  description: Religious book of your choice on your wall
   extra:
     - name: 'og:type'
       value: website
