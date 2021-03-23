@@ -1,6 +1,6 @@
 ---
 id: '1'
-price: '3 /SQ FT'
+price: '3/SQ FT'
 title: All verbs
 description: >-
   Don't know what to do? We got you covered. Over 10.000 verbs waiting for you
