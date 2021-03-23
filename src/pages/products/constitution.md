@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:title'
       value: Religious wallapper
     - name: 'twitter:description'
-      value: Religious book of your choice on your wall
+      value: The Constitution holds the basic principles that sets the Nation.
     - name: 'twitter:image'
       value: images/religious.png
       relativeUrl: true
