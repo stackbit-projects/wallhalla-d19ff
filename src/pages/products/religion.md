@@ -18,7 +18,7 @@ seo:
       value: Religious
       keyName: property
     - name: 'og:description'
-      value: images/Religious.png
+      value: Suspendisse efficitur eget erat sit amet efficitur
       keyName: property
     - name: 'og:image'
       value: images/religious.jpg
