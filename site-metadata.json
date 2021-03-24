@@ -25,13 +25,6 @@
             "url": "/faq",
             "style": "link",
             "arrow": true
-        },
-        {
-            "title": "lorem-ipsum",
-            "url": "#",
-            "style": "primary",
-            "arrow": false,
-            "type": "action"
         }
     ],
     "title": "wallcopy",
