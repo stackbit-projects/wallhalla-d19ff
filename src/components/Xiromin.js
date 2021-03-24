@@ -1,3 +1,6 @@
+import JaamesIro from "https://cdn.skypack.dev/@jaames/iro@5.4.0";
+
+
 /*!
  * iro.js v5.4.0
  * 2016-2021 James Daniel
