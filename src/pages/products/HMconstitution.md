@@ -5,6 +5,7 @@ title: We the People
 description: The Constitution holds the basic principles that sets the Nation.
 default_thumbnail_image: images/capitol.png
 default_original_image: images/capitol.png
+default
 order: 2
 category: src/pages/category/home.md
 seo:
