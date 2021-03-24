@@ -69,9 +69,7 @@ export default class Product extends React.Component {
                             </article>
                             <BuyButton {...this.props} product_page={this.props.pageContext} />
                         </div>
-                        <figure className="product__figure">
-                            <Picture {...this.props} image={_.get(this.props, 'pageContext.frontmatter.default_exampletext_image', null)} alt={_.get(this.props, 'pageContext.frontmatter.title', null)} cssClass={'product__image'} />
-                        </figure>
+
                     </section>
                     {_.get(this.props, 'pageContext.frontmatter.category', null) && ((() => {
                         let product_pages = _.filter(_.orderBy(getPages(this.props.pageContext.pages, '/products'), 'frontmatter.order'), item => _.get(item, 'frontmatter.id') != _.get(this.props, 'pageContext.frontmatter.id', null));
