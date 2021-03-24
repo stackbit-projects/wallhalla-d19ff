@@ -3,7 +3,7 @@ import _ from 'lodash';
 import {graphql} from 'gatsby';
 //xtra
 //import iro from '@jaames/iro'
-import JaamesIro from "https://cdn.skypack.dev/@jaames/iro@5.4.0";
+import JaamesIro from 'https://cdn.skypack.dev/@jaames/iro@5.4.0";
 import {Layout} from '../components/index';
 import {toStyleObj, withPrefix, Link, getPageByFilePath, getPages} from '../utils';
 import Picture from '../components/Picture';
