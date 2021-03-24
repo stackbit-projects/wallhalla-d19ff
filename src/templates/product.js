@@ -69,6 +69,8 @@ export default class Product extends React.Component {
                             </article>
                             <BuyButton {...this.props} product_page={this.props.pageContext} />
                         </div>
+                        
+                        
                         <figure className="product__figure">
                             <Picture {...this.props} image={_.get(this.props, 'pageContext.frontmatter.default_exampletext_image', null)} alt={_.get(this.props, 'pageContext.frontmatter.title', null)} cssClass={'product__image'} />
                         </figure>
