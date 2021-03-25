@@ -68,13 +68,13 @@ export default class Product extends React.Component {
                             </article>
                             class MyForm extends React.Component {
 
-      <form>
-        <h1>Hello</h1>
-        <p>Enter your name:</p>
-        <input
-          type="text"
-        />
-      </form>
+                            <form>
+                                <h1>Hello</h1>
+                                <p>Enter your name:</p>
+                                <input
+                                type="text"
+                                />
+                            </form>
    
 
                          
