@@ -21,7 +21,14 @@ export const query = graphql`
   }
 `;
 
-
+class MyForm extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      username: '',
+      age: null,
+    };
+  }
 
 export default class Product extends React.Component {
     render() {
