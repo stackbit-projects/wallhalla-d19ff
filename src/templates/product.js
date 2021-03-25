@@ -10,7 +10,19 @@ import Picture from '../components/Picture';
 import BuyButton from '../components/BuyButton';
 import ProductGrid from '../components/ProductGrid';
 
-
+                            class MyForm extends React.Component {
+                                constructor(props) {
+                                    super(props);
+                                    this.state = {
+                                    username: '',
+                                    age: null,
+                                    };
+                                }
+                                myChangeHandler = (event) => {
+                                    let nam = event.target.name;
+                                    let val = event.target.value;
+                                    this.setState({[nam]: val});
+                                }
 
 // this minimal GraphQL query ensures that when 'gatsby develop' is running,
 // any changes to content files are reflected in browser
