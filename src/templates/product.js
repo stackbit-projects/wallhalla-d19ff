@@ -97,9 +97,7 @@ export default class Product extends React.Component {
                                 onChange={this.myChangeHandler}
                             />
                             </form>
-                                    );
-                                }
-                                }    
+                         
 
 
 
