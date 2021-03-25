@@ -4,7 +4,7 @@ price: 3 / SQ FT
 title: Religion
 description: Select the book you like to have printed on your wall.
 default_thumbnail_image: images/rainy-tiger.png
-default_original_image: images/Religious.png
+default_original_image: images/square-eggplant.png
 order: 2
 category: src/pages/category/home.md
 seo:
