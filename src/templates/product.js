@@ -68,8 +68,7 @@ export default class Product extends React.Component {
                             </article>
    
                             <form>
-                                <p>Enter your name:</p>
-                                <input
+                                <p>Enter your name:</p>  <input
                                 type="text"
                                 />
                             </form>
