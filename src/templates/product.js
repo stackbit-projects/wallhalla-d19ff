@@ -21,7 +21,7 @@ export const query = graphql`
   }
 `;
 
-class MyForm extends React.Component {
+
   constructor(props) {
     super(props);
     this.state = {
