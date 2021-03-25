@@ -69,6 +69,7 @@ export default class Product extends React.Component {
    
                             <form>
                                 <p>Widht of your wall in inches:  <input                       type="text" /></p>
+                                <p>Widht of your wall in inches:  <input                       type="text" /></p>
                             </form>
    
 
