@@ -25,6 +25,7 @@ export const query = graphql`
 
 
 export default class Product extends React.Component {
+    
     render() {
         let primary_bg_img_opacity_pct = _.get(this.props, 'pageContext.site.siteMetadata.bg_image_primary_opacity', null) || 100;
         let primary_bg_img_opacity = primary_bg_img_opacity_pct * 0;
