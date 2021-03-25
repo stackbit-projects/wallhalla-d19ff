@@ -1,7 +1,7 @@
 {
     "favicon": "images/pink-parsley.ico",
     "logo_dark": "images/logodark1703.svg",
-    "logo_light": "images/logodark1703.svg",
+    "logo_light": "images/logolight1703.svg",
     "bg_image_primary_opacity": 1,
     "bg_image_secondary": "images/colorexample.svg",
     "snipcart_api_key": "",
