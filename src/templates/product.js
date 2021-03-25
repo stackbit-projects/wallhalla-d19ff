@@ -25,7 +25,7 @@ export const query = graphql`
 
 
 export default class Product extends React.Component {
-      constructor(props) {
+    constructor(props) {
     super(props);
     this.state = {
       username: '',
