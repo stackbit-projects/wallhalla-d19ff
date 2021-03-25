@@ -67,7 +67,9 @@ export default class Product extends React.Component {
                                 {_.get(this.props, 'pageContext.frontmatter.description', null)}
                             </article>
    
-
+                            <form>
+                                <p>Enter your name:  <input                       type="text" /></p>
+                            </form>
    
 
                          
