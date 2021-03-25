@@ -22,18 +22,7 @@ export const query = graphql`
 `;
 
 
-  constructor(props) {
-    super(props);
-    this.state = {
-      username: '',
-      age: null,
-    };
-  }
-  myChangeHandler = (event) => {
-    let nam = event.target.name;
-    let val = event.target.value;
-    this.setState({[nam]: val});
-  }
+
 
 export default class Product extends React.Component {
     render() {
