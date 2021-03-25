@@ -65,7 +65,8 @@ export default class Product extends React.Component {
                                 ${_.get(this.props, 'pageContext.frontmatter.price', null)}
                             </div>
                             <article className="product__description">
-                                {_.get(this.props, 'pageContext.frontmatter.description', null)
+                                {_.get(this.props, 'pageContext.frontmatter.description', null)}
+
                             </article>
 
 
