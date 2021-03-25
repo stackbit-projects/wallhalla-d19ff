@@ -36,7 +36,10 @@ export default class Body extends React.Component {
                             <meta key={meta_idx + '.1'} {...(attribute(key_name, _.get(meta, 'name', null)))} content={_.get(meta, 'value', null)}/>
                         )
                     })}
-
+                    <link rel="stylesheet" href="https://cdn.snipcart.com/themes/v3.0.18/default/snipcart.css" />
+                    {_.get(this.props, 'pageContext.site.siteMetadata.favicon', null) && (
+                    <link rel="icon" href={withPrefix(_.get(this.props, 'pageContext.site.siteMetadata.favicon', null))}/>
+                    )}
                     <body className={_.get(this.props, 'pageContext.frontmatter.template', null) + '-template palette-' + _.get(this.props, 'pageContext.site.siteMetadata.palette', null)} />
                 </Helmet>
                     <div className="site-wrapper">
