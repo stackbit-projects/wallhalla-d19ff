@@ -67,6 +67,9 @@ export default class Product extends React.Component {
                             <article className="product__description">
                                 {_.get(this.props, 'pageContext.frontmatter.description', null)}
                             </article>
+
+
+
                                 
 
                             <BuyButton {...this.props} product_page={this.props.pageContext} />
