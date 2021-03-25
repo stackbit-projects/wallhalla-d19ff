@@ -54,7 +54,6 @@ sections:
     section_id: promotion_section
     title: Print your own text to your wall?
     subtitle: We can do that too!
-    image: images/bedroom200.png
     background_image: images/greekchars.png
     cta:
       title: Discover
