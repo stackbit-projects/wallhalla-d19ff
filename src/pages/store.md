@@ -49,4 +49,5 @@ seo:
       value: images/header.jpg
       relativeUrl: true
 template: store
+page_css_class: Yellow
 ---
