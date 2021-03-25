@@ -65,7 +65,6 @@ export default class Product extends React.Component {
                             </div>
                             <article className="product__description">
                                 {_.get(this.props, 'pageContext.frontmatter.description', null)}
-                           
    
                                 <form>
                                     <p>Widht of your wall in inches :  <input  type="text" /></p>
