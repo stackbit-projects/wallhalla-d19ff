@@ -29,7 +29,7 @@ export default class Product extends React.Component {
     super(props);
     this.state = {
       username: '',
-      age: null,
+      age: 1,
     };
   }
   myChangeHandler = (event) => {
