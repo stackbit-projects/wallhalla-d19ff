@@ -81,8 +81,7 @@ export default class Product extends React.Component {
                                     let val = event.target.value;
                                     this.setState({[nam]: val});
                                 }
-                                render() {
-                                    return (
+
                                     <form>
                                     <h1>Hello {this.state.username} {this.state.age}</h1>
                                     <p>Enter your name:</p>
