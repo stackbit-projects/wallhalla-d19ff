@@ -21,22 +21,7 @@ export const query = graphql`
   }
 `;
 
-
-
-
 export default class Product extends React.Component {
-    constructor(props) {
-    super(props);
-    this.state = {
-      username: '',
-      age: 1,
-    };
-  }
-  myChangeHandler = (event) => {
-    let nam = event.target.name;
-    let val = event.target.value;
-    this.setState({[nam]: val});
-  }
     render() {
         let primary_bg_img_opacity_pct = _.get(this.props, 'pageContext.site.siteMetadata.bg_image_primary_opacity', null) || 100;
         let primary_bg_img_opacity = primary_bg_img_opacity_pct * 0;
@@ -82,21 +67,21 @@ export default class Product extends React.Component {
                                 {_.get(this.props, 'pageContext.frontmatter.description', null)}
                             </article>
    
-                            <form>
-                                <h1>Hello {this.state.username} {this.state.age}</h1>
-                                <p>Enter your name:</p>
-                                <input
-                                    type='text'
-                                    name='username'
-                                    onChange={this.myChangeHandler}
-                                />
-                                <p>Enter your age:</p>
-                                <input
-                                    type='text'
-                                    name='age'
-                                    onChange={this.myChangeHandler}
-                            />
-                            </form>
+    <form>
+        <h1>Hello {this.state.username} {this.state.age}</h1>
+        <p>Enter your name:</p>
+        <input
+            type='text'
+            name='username'
+            onChange={this.myChangeHandler}
+        />
+        <p>Enter your age:</p>
+        <input
+            type='text'
+            name='age'
+            onChange={this.myChangeHandler}
+      />
+      </form>
    
 
                          
