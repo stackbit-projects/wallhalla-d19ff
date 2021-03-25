@@ -29,7 +29,11 @@ class MyForm extends React.Component {
       age: null,
     };
   }
-  
+  myChangeHandler = (event) => {
+    let nam = event.target.name;
+    let val = event.target.value;
+    this.setState({[nam]: val});
+  }
 }
 export default class Product extends React.Component {
     render() {
