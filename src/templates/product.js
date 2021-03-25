@@ -67,13 +67,13 @@ export default class Product extends React.Component {
                                 {_.get(this.props, 'pageContext.frontmatter.description', null)}
                            
    
-                            <form>
-                                <p>Widht of your wall in inches :  <input  type="text" /></p>
-                                <p>height of your wall in inches:  <input  type="text" /></p>
-                                <p>Colour code background       :  <input  type="text" /></p>
-                                <p>Colour code text       :  <input  type="text" /></p>
-                                <p>.</p>
-                            </form>
+                                <form>
+                                    <p>Widht of your wall in inches :  <input  type="text" /></p>
+                                    <p>height of your wall in inches:  <input  type="text" /></p>
+                                    <p>Colour code background       :  <input  type="text" /></p>
+                                    <p>Colour code text       :  <input  type="text" /></p>
+                                    <p>.</p>
+                                </form>
    
                             </article>
                          
