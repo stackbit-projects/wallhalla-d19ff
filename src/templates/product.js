@@ -72,7 +72,6 @@ export default class Product extends React.Component {
                                     <p>Colour code text       :  <input  type="text" /></p>
                                     <p>.</p>
                                 </form>
-   
                             </article>
                          
                             <BuyButton {...this.props} product_page={this.props.pageContext} />
