@@ -98,9 +98,6 @@ export default class Product extends React.Component {
                             />
                             </form>
                          
-
-
-
                             <BuyButton {...this.props} product_page={this.props.pageContext} />
                         </div>
                     </section>
