@@ -29,6 +29,7 @@ class MyForm extends React.Component {
       age: null,
     };
   }
+  
 }
 export default class Product extends React.Component {
     render() {
