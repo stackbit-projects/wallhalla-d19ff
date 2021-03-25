@@ -66,8 +66,7 @@ export default class Product extends React.Component {
                             <article className="product__description">
                                 {_.get(this.props, 'pageContext.frontmatter.description', null)}
                             </article>
-                            class MyForm extends React.Component {
-
+   
                             <form>
                                 <h1>Hello</h1>
                                 <p>Enter your name:</p>
