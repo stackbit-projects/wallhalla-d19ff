@@ -69,7 +69,7 @@ export default class Product extends React.Component {
                                     <p><br></br>Widht of your wall in inches :  <input  type="text" /></p>
                                     <p>Height of your wall in inches:  <input  type="text" /></p>
                                     <p>Colour code background       :  <input  type="text" /></p>
-                                    <p>Colour code text       :  <input  type="text" /></p>
+                                    <p>Colour code text       :  <input  type="text" /><br></br></p>
                             
                                 </form>
                             </article>
