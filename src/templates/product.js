@@ -74,7 +74,6 @@ export default class Product extends React.Component {
                                 </form>
                             </article>
                             <img src='/images/colorexample.svg' />
-                            <p></p>
                                                         <BuyButton {...this.props} product_page={this.props.pageContext} />
                         </div>
                     </section>
