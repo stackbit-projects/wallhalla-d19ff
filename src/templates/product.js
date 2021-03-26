@@ -69,12 +69,13 @@ export default class Product extends React.Component {
                                     <p><br></br>Widht of your wall in inches :  <input  type="text" /></p>
                                     <p>Height of your wall in inches:  <input  type="text" /></p>
                                     <p>Colour code background       :  <input  type="text" /></p>
-                                    <p>Colour code text       :  <input  type="text" /><br></br></p>
+                                    <p>Colour code text       :  <input  type="text" /></p>
                             
                                 </form>
                             </article>
                             <img src='/images/colorexample.svg' />
-                            <BuyButton {...this.props} product_page={this.props.pageContext} />
+                            <p><br></br></p>
+                                                        <BuyButton {...this.props} product_page={this.props.pageContext} />
                         </div>
                     </section>
                     {_.get(this.props, 'pageContext.frontmatter.category', null) && ((() => {
