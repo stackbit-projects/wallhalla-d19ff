@@ -97,7 +97,7 @@ main.content {
     max-width: 500px;
     object-fit: cover;
     @include smaller-than-tablet {
-      max-height: 400px;
+      max-height: 500px;
       min-width: 100%;
       max-width: 0;
     }
