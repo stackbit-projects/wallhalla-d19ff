@@ -5,7 +5,7 @@ sections:
   - type: hero_section
     section_id: hero_section
     background_image: images/homepagecouchcatblue.jpg
-    background_image_opacity: 0
+    background_image_opacity: 100
     content: >
       # Something to read...
 
