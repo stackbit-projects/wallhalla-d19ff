@@ -37,6 +37,7 @@ main.content {
       max-width: 500px;
       max-height: 500px;
       object-fit: cover;
+      object-position: 50% 50%
       @include smaller-than-tablet {
         max-height: 400px;
         max-height: 400px;
