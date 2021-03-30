@@ -96,7 +96,6 @@ main.content {
   &__section-image {
     max-width: 500px;
     object-fit: cover;
-    object-position: 50% 50%;
     @include smaller-than-tablet {
       max-height: 500px;
       min-width: 100%;
