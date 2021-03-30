@@ -32,7 +32,7 @@ sections:
       - src/pages/products/HMconstitution.md
       - src/pages/products/HMverbs.md
       - src/pages/products/HMshakespeare.md
-      - src/pages/products/verbs.md
+      - src/pages/products/HMreligion.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
