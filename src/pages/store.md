@@ -16,7 +16,7 @@ sections:
     section_id: promotion_section
     title: A new home interior for summer
     subtitle: from $3 / SQ FT
-    image: images/hieroglyfs.png
+    image: images/Exampleverbs461-200.png
     background_image: images/backgroundwhiteheader.svg
     cta:
       title: Discover
