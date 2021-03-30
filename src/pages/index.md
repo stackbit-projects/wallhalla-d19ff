@@ -46,7 +46,7 @@ sections:
           location: 'boston, USA'
         text: This is something else
       - author:
-          name: 'WijBRAND, The hague, Netherlands'
+          name: WijBRAND
           location: 'The Hague, THE Netherlands'
         text: So proud having all my poetry on the wall
   - type: promotion_section
