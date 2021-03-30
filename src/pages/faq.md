@@ -66,5 +66,5 @@ seo:
     - name: 'twitter:description'
       value: This is the faq page
 template: advanced
-white_header: false
+white_header: true
 ---
