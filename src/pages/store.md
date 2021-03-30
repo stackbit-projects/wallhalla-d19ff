@@ -10,7 +10,7 @@ sections:
     featured_products:
       - src/pages/products/HMverbs.md
       - src/pages/products/HMreligion.md
-      - src/pages/products/constitution.md
+      - src/pages/products/HMconstitution.md
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
