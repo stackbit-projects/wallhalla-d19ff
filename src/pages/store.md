@@ -9,7 +9,7 @@ sections:
     icon: true
     featured_products:
       - src/pages/products/HMverbs.md
-      - src/pages/products/religion.md
+      - src/pages/products/HMreligion.md
       - src/pages/products/constitution.md
   - type: promotion_section
     section_id: promotion_section
