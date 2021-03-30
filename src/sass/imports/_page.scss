@@ -30,7 +30,7 @@ main.content {
     }
 
     @include smaller-than-tablet {
-      flex-direction: column-reverse !important;
+      flex-direction: column !important;
     }
 
     picture {
