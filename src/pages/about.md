@@ -9,6 +9,9 @@ sections:
       We offer small font text on wallpaper or murals.
 
 
+      ![](/images/Exampleverbs461-200.png)
+
+
       To express yourself, to educate, to remember, to relax, to engage visitors
       or just as a funny gimmick.
 
