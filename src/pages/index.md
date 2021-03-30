@@ -29,7 +29,7 @@ sections:
     icon: true
     light_title: true
     featured_products:
-      - src/pages/products/verbs.md
+      - src/pages/products/HMconstitution.md
       - src/pages/products/verbs.md
       - src/pages/products/verbs.md
       - src/pages/products/verbs.md
