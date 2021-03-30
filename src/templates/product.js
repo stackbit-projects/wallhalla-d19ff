@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 import {graphql} from 'gatsby';
-import iro from '@jaames/iro';
+
 //xtra
 //import iro from '@jaames/iro'
 
