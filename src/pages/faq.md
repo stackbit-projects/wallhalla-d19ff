@@ -5,9 +5,10 @@ sections:
   - type: header_section
     section_id: header_section
     headline: FAQ
-    subtitle: >-
-      All right, friends. Let’s do this. This section will cover basic,
-      frequently asked questions for e-commerce merchants.
+    subtitle: >
+      Before you order, you may have some questions which we hope to answer
+      underneath. If you are left with questions unanswered, please reach out by
+      phone or mail.
   - type: faq_section
     section_id: faq_section
     questions:
