@@ -22,13 +22,15 @@ sections:
             - International shipping will take between 5 and 10 business days.
             - Mars shipping will be automatically redirected to Elon Musk’s Twitter account.
       - question: How do refunds and returns work?
-        answer: >-
-          It happens. Even the most beautiful of plants will disappoint
-          *someone*. Again, tell it like it is:
-
-            - All discounted items sales are final.
-            - If you’d like another version of your item, please use the return label. Instructions are printed on its back.
-            - If your item is damaged or not functioning correctly, email us at info@planty.com, and we’ll refund you + send you a new one ASAP!
+        answer: >
+          Wallcopy delivers custom orders using colours and size of your choice.
+          Every order is unique, which means we would make a loss on any item
+          refunded. If we made an error such as the wrong size, different colors
+          or printing flaws, an item will be reprocessed. Please be aware that
+          colors on the screen can look somewhat different than in print, which
+          is why we make the exact color codes part of your order and delivery
+          specification for you to determine any actual error made in the
+          procss. 
       - question: How do you handle sensitive customer information?
         answer: >
           We protect your privacy like we cherish our own. We process a bare
