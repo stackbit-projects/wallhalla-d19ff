@@ -21,7 +21,7 @@ main.content {
   }
 
   &__section {
-    display: contents;
+    display: flex;
     max-width: 1000px;
     margin-bottom: 100px;
     overflow: hidden;
