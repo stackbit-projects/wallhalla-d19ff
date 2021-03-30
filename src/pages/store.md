@@ -8,7 +8,7 @@ sections:
     title: Best sellers
     icon: true
     featured_products:
-      - src/pages/products/verbs.md
+      - src/pages/products/HMverbs.md
       - src/pages/products/religion.md
       - src/pages/products/constitution.md
   - type: promotion_section
