@@ -30,11 +30,13 @@ sections:
             - If you’d like another version of your item, please use the return label. Instructions are printed on its back.
             - If your item is damaged or not functioning correctly, email us at info@planty.com, and we’ll refund you + send you a new one ASAP!
       - question: How do you handle sensitive customer information?
-        answer: >-
-          [GDPR](https://media3.giphy.com/media/1FMaabePDEfgk/giphy.gif?cid=790b76115d1fc3ed7656643632f4131f&rid=giphy.gif),
-          am I right? Make sure you’re as transparent as possible with your data
-          handling process. Or, if you’re using Snipcart, just refer to [our ToS
-          and DPA](http://bit.ly/2YJwlyt).
+        answer: >
+          We protect your privacy like we cherish our own. We process a bare
+          minimum of data for order fulfillment using Snipcart, which we share
+          with our print providers to ship your order. Your payment is processed
+          by Stripe. We use encryption and multi factor authentication where we
+          can and remove any data when we do not require it anymore for order
+          fulfillment or compliance purposes.
       - question: Rapid-fire questions
         answer: >
           Q: Why was no one else selling this up to now? <br /> A: Text requires
