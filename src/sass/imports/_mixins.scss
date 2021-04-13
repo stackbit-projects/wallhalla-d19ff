@@ -29,7 +29,7 @@
 @mixin smaller-than-max-width { @media (max-width: $spacing--max-width) { @content; } }
 @mixin bigger-than-max-width { @media (min-width: $spacing--max-width) { @content; } }
 
-
+//
 
 $mobile: 375px;
 $tablet: 768px;
