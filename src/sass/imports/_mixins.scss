@@ -35,7 +35,7 @@
 
 $mobile: 375px;
 $tablet: 768px;
-$desktop: 1440px;
+$desktop: 440px;
 
 @mixin smaller-than-mobile { @media (max-width: $mobile) { @content; } }
 @mixin mobile { @media (max-width: $mobile) and (min-width: 0)  { @content; } }
