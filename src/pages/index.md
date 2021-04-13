@@ -22,6 +22,11 @@ sections:
         url: /store
         arrow: true
         style: primary
+      - title: lorem-ipsum
+        url: '#'
+        style: primary
+        arrow: false
+        type: action
     background_image: images/homepagecat.gif
   - type: featured_products_section
     section_id: best_sellers_section
